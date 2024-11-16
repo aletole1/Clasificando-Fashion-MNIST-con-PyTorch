@@ -1,0 +1,15 @@
+# "${SHELL}" <(curl -L micro.mamba.pm/install.sh)
+# micromamba create -f env.yml
+
+name: nn_ale
+channels:
+  - conda-forge
+  - nvidia
+dependencies:
+  - python
+  - pip
+  - pytorch
+  - torchvision
+  - torchaudio
+  - torchviz
+  - cudatoolkit # Adjust CUDA version to match your GPU or use 'cpu' if no GPU
