@@ -1,0 +1,16 @@
+train_loss: 0.1707954580652838
+training_loss: 0.23665763278867427
+eval_loss:0.4144954927712679
+
+----------------------------------------
+
+train_accuracy: 0.9343833333333333
+training_accuracy: 0.9126
+eval_accuracy:0.8774
+
+Maximum train accuracy: 0.9393166666666667
+Index of maximum train accuracy: 56
+Maximum training accuracy: 0.9145333333333333
+Index of maximum training accuracy: 58
+Máximo valor: 0.8881
+Índice del máximo valor: 52

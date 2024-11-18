@@ -1,0 +1,6 @@
+train_loss: 0.284794343931973
+training_loss: 0.32819809002603095
+eval_loss:0.3506688899636269
+train_accuracy: 0.89705
+training_accuracy: 0.8837666666666667
+eval_accuracy:0.8753
